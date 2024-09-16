@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
-    <mxGraphModel dx="3038" dy="1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="8464" dy="4902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -516,6 +516,12 @@
         </mxCell>
         <mxCell id="WxxX8Yyo-kbMNpTuRRT0-4" value="COPP-R-DES-2&lt;div&gt;172.16.110.141&lt;br&gt;&lt;/div&gt;&lt;div&gt;00-F1-F5-18-58-09&lt;br&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=left;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tablet;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="210" y="-700" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WxxX8Yyo-kbMNpTuRRT0-5" value="COPP-CC-31&lt;div&gt;172.16.110.78&lt;br&gt;&lt;/div&gt;&lt;div&gt;18-C0-4D-30-15-5D&lt;br&gt;&lt;/div&gt;&lt;div&gt;РОМА&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=left;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="-460" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WxxX8Yyo-kbMNpTuRRT0-6" value="COPP-CC-32&lt;div&gt;172.16.110.2&lt;br&gt;&lt;/div&gt;&lt;div&gt;B4-2E-99-D7-78-CC&lt;br&gt;&lt;/div&gt;&lt;div&gt;АРТЕМ&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=left;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="2610" y="-460" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
